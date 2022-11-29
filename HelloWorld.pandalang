@@ -1,4 +1,2 @@
-program_hello_world;
-
 write("Hello world");
 end.
